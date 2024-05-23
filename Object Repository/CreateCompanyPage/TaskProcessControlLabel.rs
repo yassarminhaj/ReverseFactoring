@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TaskProcessControlLabel</name>
+   <tag></tag>
+   <elementGuidId>39209c29-8233-4b1d-84f1-bb6d8a15cf1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(text() = 'Task Process Control' or . = 'Task Process Control')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${divaddress}' or . = '${divaddress}')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e037685c-aa7c-4d46-b52c-c266de0b3df4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label fs-binding</value>
+      <webElementGuid>5feeaa21-0920-4c1d-9791-cd0d2c4fed5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fs-class</name>
+      <type>Main</type>
+      <value>fsComponentCtrl.fsGridConfig.labelClass</value>
+      <webElementGuid>5d76f888-5b8a-4642-bc62-1a7c15b5af54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fs-bind-html</name>
+      <type>Main</type>
+      <value>fsComponentCtrl.fsGridModel.addressInfoTitle || fsComponentCtrl.fsGridConfig.label | translate | trustedHtml</value>
+      <webElementGuid>b205c1e3-5b53-4ab7-8a7d-aad82b42dbdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${divaddress}</value>
+      <webElementGuid>3c0cebf6-cebe-4d12-84a8-0b3435ef92db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/form[@class=&quot;fs-pristine fs-valid-patterncheck fs-valid-emailcheck fs-valid-maxlength fs-invalid fs-invalid-required&quot;]/div[@class=&quot;panel fs-tabset&quot;]/div[@class=&quot;panel-body fs-tabset-head&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tab-set&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/div[@class=&quot;panel-body fs-tabset-head&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tab-set&quot;]/div[@class=&quot;fs-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane fs-scope active&quot;]/div[@class=&quot;panel-body fs-scope&quot;]/fs-form[@class=&quot;fs-pristine fs-valid-patterncheck fs-valid-emailcheck fs-valid-maxlength fs-invalid fs-invalid-required&quot;]/div[@class=&quot;fs-scope&quot;]/fs-layout[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsLayout container-fluid&quot;]/div[@class=&quot;row panel-group&quot;]/fs-group[@class=&quot;fs-scope fs-isolate-scope fsGroup&quot;]/div[@class=&quot;panel panel-default fs-scope anonymous has-bottom-solid-border inquiry-view-group col-md-12 col-xs-12&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row fs-scope&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid&quot;]/div[@class=&quot;group-label col-md-3 col-sm-12 col-xs-12&quot;]/fs-label[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsLabel form-group fs-scope&quot;]/div[@class=&quot;control-label fs-binding&quot;]</value>
+      <webElementGuid>1f64ba05-4c90-424d-a14c-f426ceecfb9c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

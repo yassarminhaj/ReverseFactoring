@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CreateButton</name>
+   <tag></tag>
+   <elementGuidId>ec0976f9-4c2a-47fe-94e2-58c4afe17f52</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_TAWRID - Working Capital Finance/ProfileSetupPage_CreateButton.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_TAWRID - Working Capital Finance/ProfileSetupPage_CreateButton.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.button > span.fs-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier Profile'])[1]/following::span[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Create&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>86ba0075-90e9-40c1-980f-979543d20f61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-binding</value>
+      <webElementGuid>d4026bf8-b717-4d56-8275-41fd118395ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create</value>
+      <webElementGuid>1f9fa173-9c81-4513-a501-70f973046a3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/form[@class=&quot;fs-pristine fs-valid-date fs-valid-dateformatcheck fs-valid-holidaycheck fs-valid fs-valid-date-compare fs-valid-min fs-valid-max fs-valid-required fs-valid-remove fs-valid-dateformatcheck-remove fs-valid-holidaycheck-remove fs-valid-date-compare-remove&quot;]/div[@class=&quot;panel title-no-bg operator-group inquiry-operator-1&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2 text-right no-padding-right fs-scope&quot;]/fs-grid[@class=&quot;fs-isolate-scope fsGrid&quot;]/div[@class=&quot;no-padding-right db-no-margin-bottom col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;fsButtons fs-scope&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid fsButton&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-xs-12&quot;]/fs-button[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;form-group fs-scope&quot;]/div[@class=&quot;col-md-0&quot;]/button[@class=&quot;btn btn-primary button&quot;]/span[@class=&quot;fs-binding&quot;]</value>
+      <webElementGuid>db502f1d-1aeb-451a-b3a7-faeb9d638cd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier Profile'])[1]/following::span[4]</value>
+      <webElementGuid>314d6b69-bfa7-4300-a5df-527de21cc720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buyer Profile'])[1]/following::span[4]</value>
+      <webElementGuid>3be1f8a8-0620-4752-a85b-1d9a0796a174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[1]/preceding::span[3]</value>
+      <webElementGuid>df9e28e5-0c22-49b0-89c9-9a5c535131be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[2]/preceding::span[53]</value>
+      <webElementGuid>9a094ed1-8a83-4446-b284-83c1bb51f8c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      <webElementGuid>7059450c-96d8-4424-b63b-9fc4955527d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span[2]</value>
+      <webElementGuid>16a09b45-f818-45fe-8dae-a9d680eca68f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Create' or . = 'Create')]</value>
+      <webElementGuid>49d30acd-abd4-4c4f-acd7-e2ed58cf3d18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

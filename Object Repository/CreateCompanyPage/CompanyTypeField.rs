@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CompanyTypeField</name>
+   <tag></tag>
+   <elementGuidId>bce466fc-bbc6-48d4-ac4a-257fa02341e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#item11 > a > div.media > div.media-body.media-middle > span.fs-binding</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${spanbuyer}' or . = '${spanbuyer}')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'BUYER' or . = 'BUYER')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8e8feabf-8ece-4dec-ad68-5e0212feebcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-binding</value>
+      <webElementGuid>54ad41b1-1fa5-4ab6-bc62-176e149b4869</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${spanbuyer}</value>
+      <webElementGuid>1f0e4c01-0c94-4ba7-9ca9-86102fd53970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/form[@class=&quot;fs-pristine fs-valid-patterncheck fs-valid-emailcheck fs-valid-maxlength fs-invalid fs-invalid-required&quot;]/div[@class=&quot;panel fs-tabset&quot;]/div[@class=&quot;panel-body fs-tabset-head&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tab-set&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/div[@class=&quot;panel-body fs-tabset-head&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tab-set&quot;]/div[@class=&quot;fs-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane fs-scope active&quot;]/div[@class=&quot;panel-body fs-scope&quot;]/fs-form[@class=&quot;fs-pristine fs-valid-patterncheck fs-valid-emailcheck fs-valid-maxlength fs-invalid fs-invalid-required&quot;]/div[@class=&quot;fs-scope&quot;]/fs-layout[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsLayout container-fluid&quot;]/div[@class=&quot;row panel-group&quot;]/fs-group[@class=&quot;fs-scope fs-isolate-scope fsGroup&quot;]/div[@class=&quot;panel panel-default fs-scope anonymous col-md-12 col-xs-12&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row fs-scope subRow&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid&quot;]/div[@class=&quot;col-md-3 col-sm-12 col-xs-12&quot;]/fs-custom-select[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsCustomSelect form-group fs-scope&quot;]/div[@class=&quot;dropdown col-md-0 open&quot;]/div[@class=&quot;fsCustomSelectItem animated fadeInUp dropdown-menu&quot;]/div[@class=&quot;scroller open fs-scope ps&quot;]/fs-custom-select-item[@class=&quot;open fs-scope fs-isolate-scope&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@id=&quot;item11&quot;]/a[1]/div[@class=&quot;media&quot;]/div[@class=&quot;media-body media-middle&quot;]/span[@class=&quot;fs-binding&quot;]</value>
+      <webElementGuid>5ce671c5-b2af-413b-99f9-ceb17bc33af1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'BUYER' or . = 'BUYER')]</value>
+      <webElementGuid>abf1b2d6-58d1-46dc-80e2-5695ec66e88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[1]/following::span[1]</value>
+      <webElementGuid>0914bb50-d378-492a-8298-ff6335140587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Type'])[1]/following::span[3]</value>
+      <webElementGuid>ee49796e-439a-44e2-980a-3cdb3fa6b381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FUNDER'])[1]/preceding::span[1]</value>
+      <webElementGuid>a28b674d-8673-45e8-9a40-b7e0e11315db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUPPLIER'])[1]/preceding::span[2]</value>
+      <webElementGuid>02bc26f1-d4d7-49e1-abca-51c5149d08d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BUYER']/parent::*</value>
+      <webElementGuid>95fe27df-88f1-44a6-8567-717d934bbb4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='item11']/a/div/div/span</value>
+      <webElementGuid>8904b78f-7fc5-4f5e-8ade-9d0285f22dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div/div/span</value>
+      <webElementGuid>5957b1f8-a865-4616-89c4-491c02ead7e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

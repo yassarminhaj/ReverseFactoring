@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TimezoneOption</name>
+   <tag></tag>
+   <elementGuidId>aed7e2af-d728-4996-9b21-93a3079851a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Timezone' or . = 'Timezone')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${spanasiariyadh}' or . = '${spanasiariyadh}')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4cb97afa-8548-4a39-a5ff-eaf43393a7fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fs-bind-html</name>
+      <type>Main</type>
+      <value>fsComponentCtrl.fsGridConfig.label | translate | trustedHtml</value>
+      <webElementGuid>4be8e92d-0c35-4aeb-8b52-a211b983a348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-binding</value>
+      <webElementGuid>5a8b940f-2e9c-4ec4-a3c0-58bd917f2859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${spanasiariyadh}</value>
+      <webElementGuid>4ed58b5d-6118-43e4-b8a2-3c3883fe707a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/form[@class=&quot;fs-pristine fs-valid-patterncheck fs-valid-emailcheck fs-valid-maxlength fs-invalid fs-invalid-required&quot;]/div[@class=&quot;panel fs-tabset&quot;]/div[@class=&quot;panel-body fs-tabset-head&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tab-set&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/div[@class=&quot;panel-body fs-tabset-head&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tab-set&quot;]/div[@class=&quot;fs-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane fs-scope active&quot;]/div[@class=&quot;panel-body fs-scope&quot;]/fs-form[@class=&quot;fs-pristine fs-valid-patterncheck fs-valid-emailcheck fs-valid-maxlength fs-invalid fs-invalid-required&quot;]/div[@class=&quot;fs-scope&quot;]/fs-layout[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsLayout container-fluid&quot;]/div[@class=&quot;row panel-group&quot;]/fs-group[@class=&quot;fs-scope fs-isolate-scope fsGroup&quot;]/div[@class=&quot;panel panel-default fs-scope anonymous col-md-12 col-xs-12&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row fs-scope subRow&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid&quot;]/div[@class=&quot;col-md-3 col-sm-12 col-xs-12&quot;]/fs-custom-select[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsCustomSelect form-group fs-scope&quot;]/label[@class=&quot;control-label col-md-0&quot;]/span[@class=&quot;fs-binding&quot;]</value>
+      <webElementGuid>ae311974-38c8-428e-9d32-63cf9ff0789d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Timezone' or . = 'Timezone')]</value>
+      <webElementGuid>01921e46-6161-4499-867b-6ad9d98ab1c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::span[3]</value>
+      <webElementGuid>783c37b9-36ed-4529-99c9-d3cf3f7b2af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postcode'])[1]/following::span[5]</value>
+      <webElementGuid>72788974-1815-4bc0-a4dc-bd5ed16f4d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[4]/preceding::span[2]</value>
+      <webElementGuid>c4739851-d614-4a61-b4ba-5f816b7a6069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asia/Riyadh'])[1]/preceding::span[3]</value>
+      <webElementGuid>a20ea305-301d-445c-812e-a30c8bb96d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Timezone']/parent::*</value>
+      <webElementGuid>24a7791a-ffef-434f-9185-a95535ae87c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fs-group[5]/div/div[2]/div/fs-grid/div/fs-custom-select/div/label/span[2]</value>
+      <webElementGuid>1bfab431-e515-4933-a639-601357c6abe7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

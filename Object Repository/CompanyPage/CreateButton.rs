@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CreateButton</name>
+   <tag></tag>
+   <elementGuidId>2eb3da61-6541-471a-80ba-26ae60da9915</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${spancreate}' or . = '${spancreate}')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Create' or . = 'Create')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2551d12c-1d81-4a03-8cc1-aec3e51f97ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-binding</value>
+      <webElementGuid>75e944e0-35e8-4d51-8350-f9e61ead18b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${spancreate}</value>
+      <webElementGuid>542d9c58-33b5-4169-aa14-4fde45761962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/form[@class=&quot;fs-pristine fs-valid-patterncheck fs-valid fs-valid-maxlength fs-valid-min fs-valid-max fs-valid-required&quot;]/div[1]/div[@class=&quot;panel title-no-bg operator-group inquiry-operator-1&quot;]/div[@class=&quot;panel-body no-margin-right&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 text-right no-padding-right&quot;]/fs-grid[@class=&quot;fs-isolate-scope fsGrid&quot;]/div[@class=&quot;buttons text-right col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;fsButtons fs-scope&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid fsButton&quot;]/div[@class=&quot;col-md-2 col-sm-12 col-xs-12&quot;]/fs-button[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;form-group fs-scope&quot;]/div[@class=&quot;col-md-0&quot;]/button[@class=&quot;btn btn-primary button&quot;]/span[@class=&quot;fs-binding&quot;]</value>
+      <webElementGuid>b95b5e06-9c59-4b13-b13f-d2f5bfbc399b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Create' or . = 'Create')]</value>
+      <webElementGuid>6220fc8f-384a-4dcb-be8b-e7e9cd9e66b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[2]/following::span[4]</value>
+      <webElementGuid>6ecb1590-cce1-415b-b09a-885170cb9261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utilities'])[1]/following::span[6]</value>
+      <webElementGuid>716f8120-5e0f-42f2-87ef-34aa156b0296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[1]/preceding::span[5]</value>
+      <webElementGuid>e10bfff5-5029-4eb2-a78e-d6fc1e46bbd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verified'])[1]/preceding::span[6]</value>
+      <webElementGuid>e573c893-67d4-482f-ae7d-4540f148d764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      <webElementGuid>f9ca21d1-9028-47c7-ab1d-95e78539c9de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span[2]</value>
+      <webElementGuid>859c36d2-3fbe-4c2e-b123-e52001181279</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

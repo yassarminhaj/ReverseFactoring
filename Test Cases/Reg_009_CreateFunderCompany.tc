@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a Funder with No Dual Control by a user with No Dual Control</description>
+   <name>Reg_009_CreateFunderCompany</name>
+   <tag>#Regression #BPT</tag>
+   <comment></comment>
+   <testCaseGuid>a30b8e05-9165-4112-b7d1-9b811dfd9302</testCaseGuid>
+</TestCaseEntity>

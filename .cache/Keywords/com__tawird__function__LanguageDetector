@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B11BE5A441B3DFCA00C3DEBC0B56A2C6",
+  "keywordClasses": [
+    {
+      "name": "com.tawird.function.LanguageDetector",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

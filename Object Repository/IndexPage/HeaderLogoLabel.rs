@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>HeaderLogoLabel</name>
+   <tag></tag>
+   <elementGuidId>c382d580-4494-442a-b928-c8145fb501e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.banner-header-logo</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-banner fs-scope&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-left media-middle&quot;]/div[@class=&quot;banner-header-logo&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e31b7de1-6c3a-438f-bb29-ba2a13815ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>banner-header-logo</value>
+      <webElementGuid>794a4a72-2923-4258-a505-376c4ac87218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fs-class</name>
+      <type>Main</type>
+      <value>{'arabic-logo': language === 'ar_SA'}</value>
+      <webElementGuid>4f2cdab6-156a-4643-855f-73f647bef095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-banner fs-scope&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-left media-middle&quot;]/div[@class=&quot;banner-header-logo&quot;]</value>
+      <webElementGuid>0e308fa9-b4b9-4a3f-8ecc-5d9596517e1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div</value>
+      <webElementGuid>6e04fcea-144e-45bc-b6e0-9332a17efd93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

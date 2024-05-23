@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A112D63687B0A6695E812580D9D85606",
+  "keywordClasses": [
+    {
+      "name": "com.tawrid.function.LanguageDetector",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

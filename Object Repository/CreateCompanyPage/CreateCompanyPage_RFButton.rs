@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CreateCompanyPage_RFButton</name>
+   <tag></tag>
+   <elementGuidId>d394b415-8fc5-417b-86e7-8958da349966</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_TAWRID - Working Capital Finance/CreateCompanyPage_RFButton.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_TAWRID - Working Capital Finance/CreateCompanyPage_RFButton.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='COMMON'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;RF&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e484d8a9-3275-466b-ac56-34227fd1280f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-binding</value>
+      <webElementGuid>bc156c2f-8ec6-4541-b90b-bcbe3d8178c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RF</value>
+      <webElementGuid>84b49dcb-3a4b-45fc-86ad-1045e5dfb01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/form[@class=&quot;fs-pristine fs-valid-patterncheck fs-valid-emailcheck fs-valid-maxlength fs-invalid fs-invalid-required&quot;]/div[@class=&quot;panel fs-tabset&quot;]/div[@class=&quot;panel-body fs-tabset-head&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tab-set&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/div[@class=&quot;panel-body fs-tabset-head&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tab-set&quot;]/div[@class=&quot;fs-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane fs-scope active&quot;]/fs-form[@class=&quot;fs-pristine fs-valid fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;editPage fs-scope&quot;]/fs-layout[@class=&quot;fs-isolate-scope&quot;]/div[@class=&quot;fsLayout container-fluid&quot;]/div[@class=&quot;row panel-group&quot;]/fs-group[@class=&quot;fs-scope fs-isolate-scope fsGroup&quot;]/div[@class=&quot;panel panel-default fs-scope anonymous module-card col-md-12 col-xs-12&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row fs-scope&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid&quot;]/div[@class=&quot;module col-md-12 col-sm-12 col-xs-12&quot;]/fs-card-radio[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsCardRadio form-group fs-scope&quot;]/div[@class=&quot;media col-md-0&quot;]/div[@class=&quot;edit media-body&quot;]/ul[@class=&quot;list-inline input-group&quot;]/li[@class=&quot;card-item&quot;]/label[@class=&quot;fsCard&quot;]/div[@class=&quot;jumbotron card-default text-center&quot;]/div[1]/span[@class=&quot;fs-binding&quot;]</value>
+      <webElementGuid>40d1f18e-53be-4b87-9e65-ca26927ca2f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMMON'])[1]/following::span[1]</value>
+      <webElementGuid>8f9c279c-7d6f-4b33-aecf-70a5fcefa093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::span[6]</value>
+      <webElementGuid>c95edcd4-e0e7-4375-9a9a-081d367bef1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::span[1]</value>
+      <webElementGuid>73bdd672-072e-4171-9402-93d4f0323e6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Type'])[2]/preceding::span[4]</value>
+      <webElementGuid>70d788c4-1b20-44eb-9dcc-7f0e8a908039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='RF']/parent::*</value>
+      <webElementGuid>5ba7dead-8498-4c80-aa41-d2f962a54a7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/label/div/div/span</value>
+      <webElementGuid>e98617b8-578e-4a39-80f6-ec08684f3eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'RF' or . = 'RF')]</value>
+      <webElementGuid>52b2afc8-68a6-431a-8dac-01d7261f2696</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

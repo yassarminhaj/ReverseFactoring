@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CompanyCodeField</name>
+   <tag></tag>
+   <elementGuidId>f003d1fc-4508-42f9-af34-e74eac6dc526</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>.//*[@name='companyCode']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name = 'companyCode']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.selected.focus > div.media > div.media-body.media-middle > span.fs-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ae7884d0-c6a9-46b3-8654-6c82597d149b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>companyCode</value>
+      <webElementGuid>e703f2c2-794f-47a1-b6bf-727e12dbd4c9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

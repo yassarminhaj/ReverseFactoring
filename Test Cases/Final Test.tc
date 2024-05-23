@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Final Test</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <testCaseGuid>61e79546-c99d-450c-b772-455a7d2790d2</testCaseGuid>
+</TestCaseEntity>

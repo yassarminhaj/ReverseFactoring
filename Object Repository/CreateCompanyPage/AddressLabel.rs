@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AddressLabel</name>
+   <tag></tag>
+   <elementGuidId>008b50d7-792d-4d98-b0f2-a9378f28a739</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${divaddress}' or . = '${divaddress}')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Address' or . = 'Address')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>041e0847-0b6b-41b9-b5ec-aed65dbaa31c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label fs-binding</value>
+      <webElementGuid>8d860b13-e161-442a-abba-93f603376c3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fs-class</name>
+      <type>Main</type>
+      <value>fsComponentCtrl.fsGridConfig.labelClass</value>
+      <webElementGuid>be416c7c-cdd1-43ab-a532-01ef50b07ebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fs-bind-html</name>
+      <type>Main</type>
+      <value>fsComponentCtrl.fsGridModel.addressInfoTitle || fsComponentCtrl.fsGridConfig.label | translate | trustedHtml</value>
+      <webElementGuid>ddfe9afc-eb8c-4159-bf09-b9ac1bd05c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${divaddress}</value>
+      <webElementGuid>503e140a-73fe-4602-8da5-12ffc20ac3a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/form[@class=&quot;fs-pristine fs-valid-patterncheck fs-valid-emailcheck fs-valid-maxlength fs-invalid fs-invalid-required&quot;]/div[@class=&quot;panel fs-tabset&quot;]/div[@class=&quot;panel-body fs-tabset-head&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tab-set&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/div[@class=&quot;panel-body fs-tabset-head&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tab-set&quot;]/div[@class=&quot;fs-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane fs-scope active&quot;]/div[@class=&quot;panel-body fs-scope&quot;]/fs-form[@class=&quot;fs-pristine fs-valid-patterncheck fs-valid-emailcheck fs-valid-maxlength fs-invalid fs-invalid-required&quot;]/div[@class=&quot;fs-scope&quot;]/fs-layout[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsLayout container-fluid&quot;]/div[@class=&quot;row panel-group&quot;]/fs-group[@class=&quot;fs-scope fs-isolate-scope fsGroup&quot;]/div[@class=&quot;panel panel-default fs-scope anonymous has-bottom-solid-border inquiry-view-group col-md-12 col-xs-12&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row fs-scope&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid&quot;]/div[@class=&quot;group-label col-md-3 col-sm-12 col-xs-12&quot;]/fs-label[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsLabel form-group fs-scope&quot;]/div[@class=&quot;control-label fs-binding&quot;]</value>
+      <webElementGuid>9c05e622-2753-49c3-9b03-01b799c02014</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Address' or . = 'Address')]</value>
+      <webElementGuid>cc3842e2-1238-4d1d-a03b-e6c695a10bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web URL'])[1]/following::div[9]</value>
+      <webElementGuid>56f28ce6-2e0f-4b5b-85b3-55658880f378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::div[14]</value>
+      <webElementGuid>21eae318-8419-4abb-bc6c-aac26b885b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Address'])[1]/preceding::div[2]</value>
+      <webElementGuid>fe6f3619-bdfb-4d21-bac1-be09ad92818e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/preceding::div[7]</value>
+      <webElementGuid>e8cc5d07-9ec5-433c-9fd8-2a40c3a685b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Address']/parent::*</value>
+      <webElementGuid>53213a1e-774c-46a5-beef-891e96c4bab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fs-group[3]/div/div[2]/div/fs-grid/div/fs-label/div/div</value>
+      <webElementGuid>9e60691f-1b99-49b5-9663-cc7ef63aec21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
