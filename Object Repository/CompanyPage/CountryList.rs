@@ -7,16 +7,21 @@
    <imagePath>Screenshots/Targets/Page_TAWRID - Working Capital Finance/CompanyPage_CountryList.png</imagePath>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//input[@name='fsComponentCtrl.companyCodeViewModel.label']
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @name = 'fsComponentCtrl.companyCountryViewModel.label' and @placeholder = 'Country']</value>
+      </entry>
+      <entry>
          <key>IMAGE</key>
          <value>Screenshots/Targets/Page_TAWRID - Working Capital Finance/CompanyPage_CountryList.png</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;fsComponentCtrl.companyCountryViewModel.label&quot;]</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@name='fsComponentCtrl.companyCountryViewModel.label']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -34,7 +39,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0b57b894-5f50-44aa-8111-91de469cdbe9</webElementGuid>
+      <webElementGuid>10a9a3a9-614c-4458-a792-92d51b766e01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +47,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b8cd04f5-bdf0-40f0-be73-a2376f8761c3</webElementGuid>
+      <webElementGuid>ad669c22-2e12-478e-808d-b4ee124881dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control input-sm</value>
-      <webElementGuid>e41516c7-ab98-455d-86f5-b4d95936b282</webElementGuid>
+      <webElementGuid>b4666831-3849-4f2d-bdd2-0ac7d83a9bc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +63,7 @@
       <name>name</name>
       <type>Main</type>
       <value>fsComponentCtrl.companyCountryViewModel.label</value>
-      <webElementGuid>de3826ac-9b77-4aa6-b3ec-363cdcabe8ba</webElementGuid>
+      <webElementGuid>1ef27d42-1f02-42cc-bf21-2dca19416838</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +71,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Country</value>
-      <webElementGuid>f6e8ec98-08d5-4eb4-bf8d-955b439b7d1d</webElementGuid>
+      <webElementGuid>d7c26238-5f62-4379-be76-8240151ff60e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +79,7 @@
       <name>uib-tooltip-template</name>
       <type>Main</type>
       <value>fsComponentCtrl.fsGridConfig.tooltipTemplateUrl</value>
-      <webElementGuid>ae852fec-5f90-4279-a8f6-b4f7204f1984</webElementGuid>
+      <webElementGuid>12de6257-8a81-4779-834e-8fe89e0b6e98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,7 +87,7 @@
       <name>tooltip-enable</name>
       <type>Main</type>
       <value>!!fsComponentCtrl.fsGridCtrl.getTooltipMessage(fsComponentCtrl.fsGridConfig)</value>
-      <webElementGuid>7d975c12-4be0-4938-9e8e-07ecbb38a6c5</webElementGuid>
+      <webElementGuid>b064de26-7e8a-47b9-8b93-768b04e8ca7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +95,7 @@
       <name>tooltip-class</name>
       <type>Main</type>
       <value>input-tooltip</value>
-      <webElementGuid>9d36b1dc-fa4b-4128-95a2-681379b8e44a</webElementGuid>
+      <webElementGuid>6c0f1cd9-21d7-4d85-bce7-5b9f8c88490a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -98,7 +103,7 @@
       <name>tooltip-trigger</name>
       <type>Main</type>
       <value>'focus keyup paste cut'</value>
-      <webElementGuid>52c80069-b8d5-49cd-8843-3aa82d8af3b3</webElementGuid>
+      <webElementGuid>cacd810f-102e-446d-815e-ef96df6e0389</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -106,7 +111,7 @@
       <name>tooltip-append-to-body</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c207d9fc-615f-4096-8040-28604494f9ba</webElementGuid>
+      <webElementGuid>58a8e0dc-b7b5-438d-b7f2-1d3976e1db42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -114,7 +119,7 @@
       <name>tooltip-placement</name>
       <type>Main</type>
       <value>top-right</value>
-      <webElementGuid>76a9b7f4-c2e7-4f21-8787-484bae377ec4</webElementGuid>
+      <webElementGuid>1249bcb8-8232-4255-baef-b87f8eba1cb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -122,15 +127,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/form[@class=&quot;fs-pristine fs-valid-patterncheck fs-valid fs-valid-maxlength fs-valid-min fs-valid-max fs-valid-required&quot;]/div[1]/fs-layout[@class=&quot;fs-isolate-scope&quot;]/div[@class=&quot;fsLayout container-fluid&quot;]/div[@class=&quot;row panel-group&quot;]/fs-group[@class=&quot;fs-scope fs-isolate-scope fsGroup&quot;]/div[@class=&quot;panel panel-default fs-scope search no-margin-bottom col-md-12 col-xs-12&quot;]/div[@class=&quot;panel-body in collapse&quot;]/div[@class=&quot;row fs-scope&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid&quot;]/div[@class=&quot;col-md-3 col-sm-12 col-xs-12&quot;]/fs-custom-select[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsCustomSelect form-group fs-scope&quot;]/div[@class=&quot;dropdown col-md-0 open&quot;]/div[@class=&quot;edit input-group fs-scope dropdown-toggle&quot;]/input[@class=&quot;form-control input-sm&quot;]</value>
-      <webElementGuid>1c9ac561-a81d-40d0-b997-c1b61e79dc23</webElementGuid>
+      <webElementGuid>abfa3ad5-47a9-4bd1-954c-8ef52006ce5b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='fsComponentCtrl.companyCountryViewModel.label']</value>
-      <webElementGuid>15702826-086f-4b62-870d-2bbae6a8e770</webElementGuid>
+      <value>//input[@name='fsComponentCtrl.companyCodeViewModel.label']</value>
+      <webElementGuid>8e63e78c-e1d5-4ab7-988f-7ebf7520e661</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fs-grid[3]/div/fs-custom-select/div/div/div/input</value>
-      <webElementGuid>928b325b-d0c7-4b2e-bc17-a14027847351</webElementGuid>
+      <webElementGuid>c957b625-2475-4462-bbd2-de46d8db3313</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'fsComponentCtrl.companyCountryViewModel.label' and @placeholder = 'Country']</value>
-      <webElementGuid>3577422c-0007-4b04-8740-6622cf4ff413</webElementGuid>
+      <webElementGuid>8ca2fa78-794c-429a-a4a7-2d0fde2d23bf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

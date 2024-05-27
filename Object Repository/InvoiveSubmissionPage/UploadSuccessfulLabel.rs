@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UploadSuccessfulLabel</name>
+   <tag></tag>
+   <elementGuidId>485b65f3-051e-4eab-9196-575c539d3e82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Invoice_Upload.RFIV.csv' or . = 'Invoice_Upload.RFIV.csv')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fileName.fs-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ed52307c-3e9e-41c4-8df0-0b67beeeea70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fs-show</name>
+      <type>Main</type>
+      <value>!fsComponentCtrl.fileInfo[item.docId].isEditing</value>
+      <webElementGuid>e23337bc-3c76-4bee-93e3-c8e63f2ab9b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fileName fs-binding</value>
+      <webElementGuid>17a425d4-1959-4e1d-a229-9d023ce09f09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invoice_Upload.RFIV.csv</value>
+      <webElementGuid>81e96997-97cc-421a-b71a-646da63acd64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;cpt-form editPage fs-scope&quot;]/fs-layout[@class=&quot;fs-isolate-scope&quot;]/div[@class=&quot;fsLayout container-fluid&quot;]/div[@class=&quot;row panel-group&quot;]/fs-group[@class=&quot;fs-scope fs-isolate-scope fsGroup&quot;]/div[@class=&quot;panel panel-default fs-scope anonymous upload-body no-margin-bottom disable-radius col-md-12 col-xs-12&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row fs-scope&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid&quot;]/div[@class=&quot;float-none col-md-3 col-sm-12 col-xs-12&quot;]/fs-file-upload[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsFileUpload form-group fs-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-md-12&quot;]/div[@class=&quot;well&quot;]/div[@class=&quot;fileName fs-binding&quot;]</value>
+      <webElementGuid>4d42fdf7-dc47-4751-8d34-141e4bfd4abb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Invoice_Upload.RFIV.csv' or . = 'Invoice_Upload.RFIV.csv')]</value>
+      <webElementGuid>520fc645-7c52-48f3-bde9-37851d8d6ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File ID - 272977'])[1]/following::div[2]</value>
+      <webElementGuid>e47f4032-736f-4fd4-85bd-35002131b7db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Template'])[1]/following::div[15]</value>
+      <webElementGuid>992c67d9-6ed1-4f52-a80f-1a7a97169cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[1]/preceding::div[11]</value>
+      <webElementGuid>f68049c1-3fc9-45f3-91e3-7d9611ed4a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[2]/preceding::div[16]</value>
+      <webElementGuid>135a55d1-10b2-421c-a17d-c8d705b8942f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invoice_Upload.RFIV.csv']/parent::*</value>
+      <webElementGuid>dd60e109-70a7-466e-874b-a1f2253d349f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[3]</value>
+      <webElementGuid>f270607a-71bc-46c2-8f9b-3187ee1ca1d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

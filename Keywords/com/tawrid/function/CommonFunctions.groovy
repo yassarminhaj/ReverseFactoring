@@ -65,8 +65,8 @@ public class CommonFunctions {
 		}
 	}
 
-	public static void captureExpectedResult(String text, Status val) {
-		attachLog(text,val)
-		attachScreenshot(val)
+	public static void captureExpectedResult(String text) {
+		attachLog(text)
+		attachScreenshot()
 	}
 }

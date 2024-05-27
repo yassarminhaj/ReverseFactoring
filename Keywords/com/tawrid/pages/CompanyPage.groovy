@@ -25,18 +25,22 @@ import internal.GlobalVariable
 
 public class CompanyPage {
 
-	public static void searchCompnayCode() {
-
+	public static void searchCompnayCode(String companyCode) {
+		CommonFunctions.attachScreenshot()
 		CommonFunctions.attachLog('Select Company Code from the list')
+		WebUI.waitForElementAttributeValue(findTestObject('CompanyPage/CountryList'), "placeholder", "Company Code", 60)
 		WebUI.click(findTestObject('CompanyPage/CountryList'))
-		WebUI.sendKeys(findTestObject('CompanyPage/CompanyCodeField'), GlobalVariable.COMPANYCODE)
+		WebUI.clearText(findTestObject('CompanyPage/CompanyCodeField'))
+		WebUI.sendKeys(findTestObject('CompanyPage/CompanyCodeField'), companyCode)
 		TestObject dropdownValue = new TestObject('DropDownValue')
-		dropdownValue.addProperty('xpath', ConditionType.EQUALS, ".//*[text()='"+GlobalVariable.COMPANYCODE+"']")
+		dropdownValue.addProperty('xpath', ConditionType.EQUALS, ".//*[text()='"+companyCode+"']")
 		WebUI.click(dropdownValue)
 	}
+	/*
 
 	public static void searchCompanyCode(String companyCode) {
 
+		CommonFunctions.attachScreenshot()
 		CommonFunctions.attachLog('Select Company Code from the list')
 		WebUI.click(findTestObject('CompanyPage/CountryList'))
 		WebUI.sendKeys(findTestObject('CompanyPage/CompanyCodeField'), companyCode)
@@ -44,21 +48,28 @@ public class CompanyPage {
 		dropdownValue.addProperty('xpath', ConditionType.EQUALS, ".//span[text()='"+companyCode+"']")
 		WebUI.click(dropdownValue)
 	}
+	*/
 
 	public static void clickUpdateKYCResult() {
+		CommonFunctions.attachLog('Click Update KYC Result')
+		WebUI.click(findTestObject("CompanyPage/UpdateKYCResultButton"))
+	}
 
-		WebUI.click(findTestObject("UpdateKYCResultButton"))
+	public static void clickResetAdminPassword() {
+		CommonFunctions.attachLog('Click Reset Admin Password')
+		WebUI.click(findTestObject("CompanyPage/ResetAdminPasswordButton"))
+		CommonFunctions.attachScreenshot()
 	}
 
 	public static String getKYCStatus() {
-		return WebUI.getText('CompanyPage/KYCProcessCompletedLabel')
+		return WebUI.getText(findTestObject('CompanyPage/KYCProcessCompletedLabel'))
 	}
 
 	public static String getStatus() {
-		return WebUI.getText('CompanyPage/StatusLabel')
+		return WebUI.getText(findTestObject('CompanyPage/StatusLabel'))
 	}
 
 	public static boolean verifyUpdateKYCButton() {
-		return WebUI.verifyElementPresent('CompanyPage/UpdateKYCResultButton', 10)
+		return WebUI.verifyElementPresent(findTestObject('CompanyPage/UpdateKYCResultButton'), 10)
 	}
 }

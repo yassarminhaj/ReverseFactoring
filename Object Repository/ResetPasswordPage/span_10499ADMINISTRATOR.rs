@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_10499ADMINISTRATOR</name>
+   <tag></tag>
+   <elementGuidId>cf8d09d9-3c08-4064-8897-a7bce7eda3a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitted Successfully'])[1]/following::span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.dataRef</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8a14e9a6-d5f2-4eac-9928-da61939c14a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dataRef</value>
+      <webElementGuid>0dfdc7b6-b48a-4293-ba8d-04a88c185d90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10499:ADMINISTRATOR</value>
+      <webElementGuid>4f4bda5b-2c7f-4f42-ae76-967edd36503b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form acknowledge fs-scope&quot;]/div[@class=&quot;panel-group&quot;]/div[@class=&quot;panel no-margin-bottom padding-top-24 padding-left-24 padding-right-24 padding-bottom-24&quot;]/div[@class=&quot;text-center margin-top-16 margin-bottom-48&quot;]/span[@class=&quot;fs-scope&quot;]/span[@class=&quot;successData fs-binding&quot;]/span[@class=&quot;dataRef&quot;]</value>
+      <webElementGuid>cc64dd47-fd20-4565-befd-a58fdf6eaac3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitted Successfully'])[1]/following::span[3]</value>
+      <webElementGuid>6e1b21f1-c6e7-40e9-b18d-60231d3bab75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Transaction Status'])[1]/preceding::span[2]</value>
+      <webElementGuid>8f941658-6fc8-4614-81cf-6dcc210a2a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Transaction Status'])[2]/preceding::span[4]</value>
+      <webElementGuid>04d62a26-310a-4308-a6d2-4648b7342cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10499:ADMINISTRATOR']/parent::*</value>
+      <webElementGuid>be55dfec-4318-4d4c-9289-2d7253aa4be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span</value>
+      <webElementGuid>78f4e578-4a0c-4e51-b86c-e8d241ed8f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '10499:ADMINISTRATOR' or . = '10499:ADMINISTRATOR')]</value>
+      <webElementGuid>97f7bb35-3617-47c2-9bf5-903540a0d4fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

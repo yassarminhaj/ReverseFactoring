@@ -16,7 +16,6 @@ public class DashboardPage {
 
 	public static void clickCustomerOnBoarding() {
 
-		CommonFunctions.attachScreenshot()
 		CommonFunctions.attachLog("Click Customer On Boarding")
 
 		WebUI.waitForElementAttributeValue(findTestObject('MenuPage/CustomerOnBoardingLabel'), "class", "media-body fs-binding", GlobalVariable.LONG_WAIT)
@@ -56,5 +55,9 @@ public class DashboardPage {
 
 				break
 		}
+	}
+	public static void clickOnLogoutButton() {
+		CommonFunctions.attachLog('click on Logout Button')
+		WebUI.click(findTestObject('DashboardPage/LogoutButton'))
 	}
 }

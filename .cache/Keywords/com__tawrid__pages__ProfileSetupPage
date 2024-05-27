@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "5EDE478A5D26517B951F3B48FBFBE5C8",
+  "keywordFileContentHash": "A144184C8E5249E4C11FB7AA13163CA0",
   "keywordClasses": [
     {
       "name": "com.tawrid.pages.ProfileSetupPage",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

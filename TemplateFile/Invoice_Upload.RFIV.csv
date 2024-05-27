@@ -1,0 +1,7 @@
+﻿C,Version,Message Type,Batch Reference,Sender Id(Buyer Registration Id)
+C,الإصدار , نوع الرسالة , مرجع المجموعة , معرف المرسل (معرف تسجيل المشتري)
+H,100,RFIV,23493117,SA000130001,20230104,104900,+0300
+L,Buyer Registration Id,Supplier Registration Id,Invoice Number,Invoice Date,Invoice Maturity Date,Invoice Currency,Invoice Amount
+C,رقم تسجيل المشتري ,رقم تسجيل المورد ,رقم الفاتورة ,تاريخ الفاتورة ,تاريخ استحقاق الفاتورة ,عملة الفاتورة ,مبلغ الفاتورة
+T,SA000130001,SA000240008,INV1907231117,20240217,20240327,SAR,1100
+F,1

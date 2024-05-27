@@ -37,6 +37,6 @@ public class CreateCompanyAcknowledgePage {
 	}
 
 	public static String getSubmittedSuccessfullyMessage() {
-		return WebUI.getText('CreateCompanyAcknowledgPage/SubmittedSuccessfullyLabel2')
+		return WebUI.getText(findTestObject('CreateCompanyAcknowledgPage/SubmittedSuccessfullyLabel2'))
 	}
 }

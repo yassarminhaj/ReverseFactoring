@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "0AF2C14B8E230A423D796AA15E9CE7BC",
+  "keywordClasses": [
+    {
+      "name": "com.tawrid.pages.InvoiceUploadPage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

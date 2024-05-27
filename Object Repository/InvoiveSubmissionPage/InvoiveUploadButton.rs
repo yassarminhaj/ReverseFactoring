@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>InvoiveUploadButton</name>
+   <tag></tag>
+   <elementGuidId>793a9776-0f90-4f5c-b270-f816482c32c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>fdfb8a49-8dc7-4e8f-9d27-1412a33d9f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default </value>
+      <webElementGuid>592faa29-10b5-4139-a1ef-35f24b1d930f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fs-class</name>
+      <type>Main</type>
+      <value>{'active':item.value==fsComponentCtrl.fsGridModel.btnMenuValue}</value>
+      <webElementGuid>ea1b30a2-a888-4231-8ab8-c8f45a255fab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>862946981.3113928.btnMenuValue1</value>
+      <webElementGuid>964b10a8-936d-443c-8dda-219931c9cdda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload</value>
+      <webElementGuid>78e6f08c-afb1-4039-ac63-68f128f495f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;content-menu fs-scope&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid fs-enter-prepare&quot;]/div[@class=&quot;btn-menu col-md-12 col-sm-12 col-xs-12&quot;]/fs-btn-radio[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsBtnRadio form-group fs-scope&quot;]/div[@class=&quot;col-md-0&quot;]/div[@class=&quot;edit&quot;]/ul[@class=&quot;list-inline input-group input-sm&quot;]/li[@class=&quot;fs-scope&quot;]/label[@class=&quot;btn btn-default&quot;]</value>
+      <webElementGuid>452bafaf-5945-4f3a-aace-311f2cbf593d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Upload' or . = 'Upload')]</value>
+      <webElementGuid>ecece019-8fbe-4492-8f95-66afb01223f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::label[1]</value>
+      <webElementGuid>483bd4a7-c879-43b0-bf67-9fca89d6e655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice'])[1]/following::label[2]</value>
+      <webElementGuid>3aa730b0-5c12-445a-b84b-ca1525e91c71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/preceding::label[1]</value>
+      <webElementGuid>50f077c2-8618-4180-9b93-d6490817071b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice Number'])[1]/preceding::label[1]</value>
+      <webElementGuid>04bca926-bb82-4251-8691-2742d729bd17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload']/parent::*</value>
+      <webElementGuid>1bf8eea9-5284-4f75-89c9-44bf32406d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/label</value>
+      <webElementGuid>16681dcc-497a-4d99-9fa7-2a5b53fa2226</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

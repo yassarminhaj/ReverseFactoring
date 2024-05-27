@@ -7,16 +7,20 @@
    <imagePath>Screenshots/Targets/Page_TAWRID - Working Capital Finance/CreateCompanyPage_DualControlSlider.png</imagePath>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.right.fs-binding</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[2]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'No' or . = 'No')]</value>
       </entry>
       <entry>
          <key>IMAGE</key>
          <value>Screenshots/Targets/Page_TAWRID - Working Capital Finance/CreateCompanyPage_DualControlSlider.png</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[2]/following::span[2]</value>
+         <key>CSS</key>
+         <value>span.right.fs-binding</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -34,7 +38,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>775b4b58-1826-41a0-859f-54b832536fa5</webElementGuid>
+      <webElementGuid>76aea361-28de-4401-97d7-7fc238a22f15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>right fs-binding</value>
-      <webElementGuid>88fef6ce-f302-4b0b-b524-35fd898b7b56</webElementGuid>
+      <webElementGuid>306a69e3-0621-4460-8a9e-439360f186b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>No</value>
-      <webElementGuid>3607a85f-c21c-46bf-a483-a16c5edad3ca</webElementGuid>
+      <webElementGuid>7dfef775-b282-44ab-aa15-625b27daa273</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/form[@class=&quot;fs-valid-patterncheck fs-valid-emailcheck fs-valid-maxlength fs-invalid fs-invalid-required fs-dirty&quot;]/div[@class=&quot;panel fs-tabset&quot;]/div[@class=&quot;panel-body fs-tabset-head&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tab-set&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/div[@class=&quot;panel-body fs-tabset-head&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tab-set&quot;]/div[@class=&quot;fs-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane fs-scope active&quot;]/div[@class=&quot;panel-body fs-scope&quot;]/fs-form[@class=&quot;fs-pristine fs-valid-patterncheck fs-valid-emailcheck fs-valid-maxlength fs-invalid fs-invalid-required&quot;]/div[@class=&quot;fs-scope&quot;]/fs-layout[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsLayout container-fluid&quot;]/div[@class=&quot;row panel-group&quot;]/fs-group[@class=&quot;fs-scope fs-isolate-scope fsGroup&quot;]/div[@class=&quot;panel panel-default fs-scope anonymous col-md-12 col-xs-12&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row fs-scope subRow&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid&quot;]/div[@class=&quot;switch-radio col-md-3 col-sm-12 col-xs-12&quot;]/fs-radio[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsRadio form-group fs-scope&quot;]/div[@class=&quot;col-md-0&quot;]/div[@class=&quot;edit&quot;]/div[@class=&quot;switch-button cursor-hand fs-scope&quot;]/span[@class=&quot;wrap&quot;]/span[@class=&quot;right fs-binding&quot;]</value>
-      <webElementGuid>35951094-1001-4002-ac02-1f4ae5162f75</webElementGuid>
+      <webElementGuid>4ac0a370-0fde-432e-b147-fcd29ebf4b0f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[2]/following::span[2]</value>
-      <webElementGuid>37806a99-3c3d-44e8-91a2-8f9689a3675f</webElementGuid>
+      <webElementGuid>14ce7d73-7653-4379-b79e-353c2c1fb827</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dual Control'])[1]/following::span[4]</value>
-      <webElementGuid>12139fbf-cc4d-4c75-9906-3750084931ee</webElementGuid>
+      <webElementGuid>62048931-ce3a-4c46-8663-3f46fb0a00ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Strict Dual Control'])[1]/preceding::span[2]</value>
-      <webElementGuid>96b30e59-f1e0-4c08-8a51-79804131bb56</webElementGuid>
+      <webElementGuid>cbc24ead-c8d5-432d-87ed-fe8e6998e6f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[3]/preceding::span[3]</value>
-      <webElementGuid>a1645417-1c61-42b3-83eb-daae3af3f070</webElementGuid>
+      <webElementGuid>1c26e55d-88cc-4896-91f0-e51a26cbbe4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span[3]</value>
-      <webElementGuid>42c9d776-babe-457c-8b96-13d57108f2b4</webElementGuid>
+      <webElementGuid>3e09f4d0-428b-4c26-9227-255f634055d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,13 +110,13 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'No' or . = 'No')]</value>
-      <webElementGuid>48bb815a-1c66-4b31-bc98-6c389af57e6a</webElementGuid>
+      <webElementGuid>22d89a49-8421-4d1c-bb11-3073b358f460</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
       <value>//input[@name='dualControlFlag']/parent::div/div/span</value>
-      <webElementGuid>897dee52-b1df-496f-8aae-7b6ac020f0b7</webElementGuid>
+      <webElementGuid>f26f4360-9c72-493c-917e-ec3c03252792</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -51,7 +51,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'10016'</initValue>
+      <initValue>'10505'</initValue>
       <name>COMPANYCODE</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

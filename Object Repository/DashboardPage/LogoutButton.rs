@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LogoutButton</name>
+   <tag></tag>
+   <elementGuidId>51d8b395-1f13-4da9-bb15-7e31aad18e2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class = 'icon icon-logout2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon.icon-logout2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>92204c4e-ecaa-4280-ab4b-bfad5a14900d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-logout2</value>
+      <webElementGuid>94b347f5-00da-431b-bea8-4fb59ee39664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-banner fs-scope&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-body media-middle&quot;]/div[@class=&quot;banner-header navbar navbar-default hidden-xs&quot;]/div[@class=&quot;nav navbar-nav navbar-right&quot;]/ul[1]/li[3]/div[@class=&quot;icon&quot;]/span[@class=&quot;icon icon-logout2&quot;]</value>
+      <webElementGuid>c89116f6-2310-487f-82fd-1f37daf68142</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/span</value>
+      <webElementGuid>6b981d15-d9ac-45d2-9ab8-300245b8d87f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -51,7 +51,7 @@ else
 	CommonFunctions.captureExpectedResult("The was Expecting"+ExpectedMessage+"but solution displayed"+ActualMessage, Status.FAIL)
 
 CreateCompanyAcknowledgePage.clickViewTransactionStatusButton()
-CompanyPage.searchCompnayCode()
+CompanyPage.searchCompnayCode(GlobalVariable.COMPANYCODE)
 
 CompanyPage.getKYCStatus().equals("No")
 CompanyPage.getStatus().equals("Verified")

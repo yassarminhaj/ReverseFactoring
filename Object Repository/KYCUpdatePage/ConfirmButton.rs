@@ -7,16 +7,20 @@
    <imagePath>Screenshots/Targets/Page_TAWRID - Supply Chain Financing Solutions/ConfirmButton.png</imagePath>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>.//button//*[text()='Confirm']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Confirm' or . = 'Confirm')]</value>
+      </entry>
+      <entry>
          <key>IMAGE</key>
          <value>Screenshots/Targets/Page_TAWRID - Supply Chain Financing Solutions/ConfirmButton.png</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.col-md-12.col-sm-12.col-xs-12 > fs-button.fs-scope.fs-isolate-scope > div.form-group.fs-scope > div.col-md-0 > button.btn.btn-primary.button > span.fs-binding</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -34,7 +38,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9aefcbe5-42a0-41e9-a024-0f69713bf234</webElementGuid>
+      <webElementGuid>c50a7bc2-bd60-4556-8874-01713e71ed71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fs-binding</value>
-      <webElementGuid>f8537b98-6fd6-48a3-9f72-b765f4cefe8a</webElementGuid>
+      <webElementGuid>9405515f-14fa-4b69-a048-73531be84103</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Confirm</value>
-      <webElementGuid>7fd9d032-e701-4e64-9092-26f4c325b9ce</webElementGuid>
+      <webElementGuid>7b8fcb66-afa3-49e4-88c1-b26a034a00ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll backdrop&quot;]/div[@class=&quot;modal-container modal-open&quot;]/div[@class=&quot;modal dialogModal  fade-out confirm-dialog fade fs-scope fs-isolate-scope top-modal-window moved in&quot;]/div[@class=&quot;modal-dialog modal-400,120&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;confirmDialog messageDialog app-modal-content info&quot;]/div[@class=&quot;modal-footer&quot;]/fs-grid[@class=&quot;fs-isolate-scope fsGrid&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;fsButtons fs-scope&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid fsButton&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-xs-12&quot;]/fs-button[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;form-group fs-scope&quot;]/div[@class=&quot;col-md-0&quot;]/button[@class=&quot;btn btn-primary button&quot;]/span[@class=&quot;fs-binding&quot;]</value>
-      <webElementGuid>72b94c8f-38d0-41aa-9be9-c894cb1f6548</webElementGuid>
+      <webElementGuid>f8c9e596-8d78-4930-95a4-5fc9d5d3e720</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[2]</value>
-      <webElementGuid>94708d2c-b649-4fc4-840f-82560c7c2bbc</webElementGuid>
+      <webElementGuid>ac7b25ca-5359-4509-8ba6-4b608a8709f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please confirm KYC Process of this company is completed!'])[1]/following::span[4]</value>
-      <webElementGuid>e0f14946-1313-40f6-8d73-25259851c512</webElementGuid>
+      <webElementGuid>a4c2e29f-a018-4a4c-9eaf-29620edabb31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Keyboard Shortcuts:'])[1]/preceding::span[1]</value>
-      <webElementGuid>6a4d9abf-e9a2-4ed2-a45a-2947737a9b25</webElementGuid>
+      <webElementGuid>80bdf71c-a2ab-4e00-acd4-a672368a4285</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='?'])[1]/preceding::span[1]</value>
-      <webElementGuid>3050878a-dd9e-4708-b4e9-76e44760a79f</webElementGuid>
+      <webElementGuid>fe26853c-25ec-42db-8e5c-e7228f4cd064</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fs-grid[2]/div/fs-button/div/div/button/span[2]</value>
-      <webElementGuid>378373af-3b4c-49d4-b7c1-7b75401c98df</webElementGuid>
+      <webElementGuid>5a716a5b-bbc2-4e2d-820b-4532c96cb68b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Confirm' or . = 'Confirm')]</value>
-      <webElementGuid>caa02906-631a-42b2-a971-a0491dc0b38a</webElementGuid>
+      <webElementGuid>244b429a-39f4-46bf-a743-bb4d122625c5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

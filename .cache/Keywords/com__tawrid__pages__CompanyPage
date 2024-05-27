@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "1E13AF34636F653A7E44A358EC274F20",
+  "keywordFileContentHash": "454BE921263F98C065CA9CE9A35E3722",
   "keywordClasses": [
     {
       "name": "com.tawrid.pages.CompanyPage",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

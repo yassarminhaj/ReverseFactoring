@@ -139,6 +139,8 @@ public class CreateCompanyPage {
 
 	public static void switchDualControl(String Val) {
 		//TestObject theObj = findTestObject('CreateCompanyPage/DualControlSlider', [('YesOrNo') : Val])
+
+		WebUI.scrollToElement(findTestObject('Object Repository/CreateCompanyPage/TaskProcessControlLabel'), 10)
 		TestObject dualControlSlider = new TestObject()
 		dualControlSlider.addProperty("xpath", ConditionType.EQUALS, "//input[@name='dualControlFlag']/parent::div/div")
 		String theVal = WebUI.getAttribute(dualControlSlider, "class")

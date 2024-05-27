@@ -7,16 +7,16 @@
    <imagePath>Screenshots/Targets/Page_TAWRID - Supply Chain Financing Solutions/VerifyButton.png</imagePath>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Verify']/parent::*</value>
+      </entry>
+      <entry>
          <key>IMAGE</key>
          <value>Screenshots/Targets/Page_TAWRID - Supply Chain Financing Solutions/VerifyButton.png</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.col-md-12.col-sm-12.col-xs-12 > fs-button.fs-scope.fs-isolate-scope > div.form-group.fs-scope > div.col-md-0 > button.btn.btn-primary.submit > span.fs-binding</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='by TAURUS:AUTOMATOR'])[1]/following::span[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -34,7 +34,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6fa5ae63-c173-4562-ae8e-5c902130960b</webElementGuid>
+      <webElementGuid>2921ee33-ffb0-4ab3-b0ba-d26aef8cd3d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fs-binding</value>
-      <webElementGuid>b8062383-e0ba-457f-a42b-5c8bbae92543</webElementGuid>
+      <webElementGuid>677a4c22-a46b-476b-9bd1-b8bb19a256e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Verify</value>
-      <webElementGuid>1d8f9131-2640-4cc6-a073-e888c6c8adf2</webElementGuid>
+      <webElementGuid>7016baac-bfc2-4854-89d4-5d2ee9d38f7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form query-detail fs-scope&quot;]/form[@class=&quot;fs-pristine fs-valid fs-valid-min fs-valid-max fs-valid-required&quot;]/div[1]/div[@class=&quot;panel foot-form&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row padding&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;text-right button-list&quot;]/fs-grid[@class=&quot;fs-isolate-scope fsGrid&quot;]/div[@class=&quot;buttons text-right col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;fsButtons fs-scope&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid fsButton&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-xs-12&quot;]/fs-button[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;form-group fs-scope&quot;]/div[@class=&quot;col-md-0&quot;]/button[@class=&quot;btn btn-primary submit&quot;]/span[@class=&quot;fs-binding&quot;]</value>
-      <webElementGuid>82c92d57-bf9a-434c-8e2d-67fb04108dc1</webElementGuid>
+      <webElementGuid>02f2c881-1709-494e-85d3-4dde44512b1c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='by TAURUS:AUTOMATOR'])[1]/following::span[3]</value>
-      <webElementGuid>25207696-53d3-4c24-9b0f-26d31821caa9</webElementGuid>
+      <webElementGuid>818a5b0c-a701-4a0e-b320-7b8933df24e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Create Submit'])[1]/following::span[4]</value>
-      <webElementGuid>b45d2728-ec6d-4100-a70f-37eca9e5adab</webElementGuid>
+      <webElementGuid>ff7bc609-68b1-44b3-b59e-6b9779f48c9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PRIVACY POLICY'])[1]/preceding::span[1]</value>
-      <webElementGuid>b73bde84-8e6b-418b-8a5c-13430966c20c</webElementGuid>
+      <webElementGuid>7e16b374-2a30-4b2e-85ee-111ea70dbe56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[2]/preceding::span[2]</value>
-      <webElementGuid>90b135ff-ae26-4d64-840a-17ca868454fb</webElementGuid>
+      <webElementGuid>fa664ec1-9e2d-46a5-91e5-d7d3ca6b3084</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Verify']/parent::*</value>
-      <webElementGuid>d005ca61-f51d-4d7f-8b46-5a14f0af7c27</webElementGuid>
+      <webElementGuid>35672284-d732-4aee-811e-8ba66dbc80c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/fs-grid/div/div/fs-grid/div/fs-button/div/div/button/span[2]</value>
-      <webElementGuid>16757229-d5d2-401c-a974-91510351419a</webElementGuid>
+      <webElementGuid>85f89b24-ffb1-479f-b7d9-7175808257ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Verify' or . = 'Verify')]</value>
-      <webElementGuid>f1cd4575-49fe-4597-866b-2c58746e033b</webElementGuid>
+      <webElementGuid>1823b4f2-9ed9-48ce-8787-30281a58c921</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -57,6 +57,6 @@ CreateCompanyAcknowledgePage.verifyCreateCompanySubmition()
 
 CreateCompanyAcknowledgePage.clickViewTransactionStatusButton()
 
-CompanyPage.searchCompnayCode()
+CompanyPage.searchCompnayCode(GlobalVariable.COMPANYCODE)
 
 WebUI.delay(5)

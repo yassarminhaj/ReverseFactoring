@@ -7,16 +7,16 @@
    <imagePath>Screenshots/Targets/bpt_Companypage/CompanyPage_CompanyCodeList.png</imagePath>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//input[@name='companyCodeKeyWord']</value>
+      </entry>
+      <entry>
          <key>IMAGE</key>
          <value>Screenshots/Targets/bpt_Companypage/CompanyPage_CompanyCodeList.png</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;fsComponentCtrl.companyCodeViewModel.label&quot;]</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@name='fsComponentCtrl.companyCodeViewModel.label']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -34,7 +34,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>19976091-18b2-4055-b942-47c1b8395013</webElementGuid>
+      <webElementGuid>1a670a54-cc19-4176-9675-03e9d8f9ba6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>003f2d9d-8935-493c-adb2-92637970ac87</webElementGuid>
+      <webElementGuid>41cea1c8-17a2-4ab9-b54c-2a3930258e28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control input-sm</value>
-      <webElementGuid>8dd3239b-f950-4731-8c63-d96389ad619c</webElementGuid>
+      <webElementGuid>b1705c7e-3778-453e-a31b-4d7f8b111e2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>name</name>
       <type>Main</type>
       <value>fsComponentCtrl.companyCodeViewModel.label</value>
-      <webElementGuid>2fd923c7-f317-4eff-8ae9-73c7d4830d1b</webElementGuid>
+      <webElementGuid>2b780125-f0b7-4e63-88fc-ca9c5248af78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Company Code</value>
-      <webElementGuid>49a7b214-1909-4e96-8175-c42ae878f71a</webElementGuid>
+      <webElementGuid>4828c580-c63a-4697-9ae0-62e11cb33779</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>uib-tooltip-template</name>
       <type>Main</type>
       <value>fsComponentCtrl.fsGridConfig.tooltipTemplateUrl</value>
-      <webElementGuid>f5b23ccf-75a3-4408-aa16-b9f2fa0bcd86</webElementGuid>
+      <webElementGuid>a32ea14a-6d10-48b1-a395-09863a12e217</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>tooltip-enable</name>
       <type>Main</type>
       <value>!!fsComponentCtrl.fsGridCtrl.getTooltipMessage(fsComponentCtrl.fsGridConfig)</value>
-      <webElementGuid>42254631-5466-43df-9dd2-c3fe7de40dbc</webElementGuid>
+      <webElementGuid>fd45a9b6-3c57-42e4-941f-f33b32dbb204</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>tooltip-class</name>
       <type>Main</type>
       <value>input-tooltip</value>
-      <webElementGuid>dfc46968-4c63-4ca5-bc27-0d65f64a32a3</webElementGuid>
+      <webElementGuid>a2ce7817-8984-4fbe-979d-a2c6f37c6f9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>tooltip-trigger</name>
       <type>Main</type>
       <value>'focus keyup paste cut'</value>
-      <webElementGuid>58268026-7d01-429f-b71e-3aaf9f87bfba</webElementGuid>
+      <webElementGuid>488337c0-973c-4170-a5ae-eaf233b9d6bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>tooltip-append-to-body</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ce02ad67-19af-48c6-9554-165d32834894</webElementGuid>
+      <webElementGuid>be084d6a-7595-47df-b529-5f5294de807a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>tooltip-placement</name>
       <type>Main</type>
       <value>top-right</value>
-      <webElementGuid>f006e945-d4bd-4d2b-a79c-7aa86d6afc6d</webElementGuid>
+      <webElementGuid>1a49b1ba-c8a2-4026-aa47-5e2c4a000682</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;bpt-form fs-scope&quot;]/form[@class=&quot;fs-pristine fs-valid-patterncheck fs-valid fs-valid-maxlength fs-valid-min fs-valid-max fs-valid-required&quot;]/div[1]/fs-layout[@class=&quot;fs-isolate-scope&quot;]/div[@class=&quot;fsLayout container-fluid&quot;]/div[@class=&quot;row panel-group&quot;]/fs-group[@class=&quot;fs-scope fs-isolate-scope fsGroup&quot;]/div[@class=&quot;panel panel-default fs-scope anonymous title-no-bg operator-group inquiry-operator-2 col-md-12 col-xs-12&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row fs-scope&quot;]/fs-grid[@class=&quot;fs-scope fs-isolate-scope fsGrid&quot;]/div[@class=&quot;col-md-2 col-sm-12 col-xs-12&quot;]/fs-custom-select[@class=&quot;fs-scope fs-isolate-scope&quot;]/div[@class=&quot;fsCustomSelect form-group fs-scope&quot;]/div[@class=&quot;dropdown col-md-0&quot;]/div[@class=&quot;edit input-group fs-scope dropdown-toggle&quot;]/input[@class=&quot;form-control input-sm&quot;]</value>
-      <webElementGuid>e07c0d0a-c934-46f9-bd54-09670af35a6b</webElementGuid>
+      <webElementGuid>4ad76fd7-f0f9-43d3-811b-5f2fd6f5d630</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='fsComponentCtrl.companyCodeViewModel.label']</value>
-      <webElementGuid>aa1eac14-d087-4f73-8980-a643fce3ac0e</webElementGuid>
+      <webElementGuid>b1f176f5-cb3f-48ac-b09a-e5d01813e07c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fs-grid[2]/div/fs-custom-select/div/div/div/input</value>
-      <webElementGuid>491b93b4-26ef-4063-8a87-a8d01734c615</webElementGuid>
+      <webElementGuid>698cdb8b-f22a-44a5-a396-4bd9dd839ed8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,6 +146,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'fsComponentCtrl.companyCodeViewModel.label' and @placeholder = 'Company Code']</value>
-      <webElementGuid>e02c45b9-5ab6-444e-940d-fe7706aaa86b</webElementGuid>
+      <webElementGuid>c7e25b2a-625d-483b-9cbf-48f063087c83</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

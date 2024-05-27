@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "5FE9811197873A6AE5807EF45128250A",
+  "keywordFileContentHash": "4A78709DB8B67B68CB97D54CC63C605D",
   "keywordClasses": [
     {
       "name": "com.tawrid.pages.MenuPage",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

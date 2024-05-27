@@ -7,15 +7,15 @@
    <imagePath>Screenshots/Targets/Page_TAWRID - Working Capital Finance/MenuPage_ProductOn-BoardingLabel.png</imagePath>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Product on-Boarding']/parent::*</value>
+      </entry>
+      <entry>
          <key>IMAGE</key>
          <value>Screenshots/Targets/Page_TAWRID - Working Capital Finance/MenuPage_ProductOn-BoardingLabel.png</value>
       </entry>
       <entry>
          <key>CSS</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='System Data Admin'])[1]/following::span[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>99aa8dc0-3ea9-49ea-9a92-7c1ddd8ffe60</webElementGuid>
+      <webElementGuid>dbea012a-8359-4eb7-9cde-f4179612ca85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>media-body fs-binding</value>
-      <webElementGuid>d254aa63-2876-4b4b-9d4b-2c736c9e95cd</webElementGuid>
+      <webElementGuid>98c2ad67-b603-4caf-9092-55a5df1946e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Product on-Boarding</value>
-      <webElementGuid>bbd73ea3-4527-4980-a51e-becfbe77cff5</webElementGuid>
+      <webElementGuid>d0f4e39a-1e91-4c3c-858a-d26d7c8bf9ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;fs-scope&quot;]/body[@class=&quot;app fs-scope v-scroll&quot;]/div[@class=&quot;app-view fs-scope&quot;]/div[@class=&quot;fs-scope&quot;]/div[@class=&quot;app-content&quot;]/div[@class=&quot;content-side fs-scope&quot;]/div[@class=&quot;scroller open ps ps--active-y&quot;]/nav[@class=&quot;navbar navbar-default fs-scope&quot;]/ul[@class=&quot;nav navbar-nav fs-isolate-scope&quot;]/li[@class=&quot;top-menu dropdown fs-scope open allin&quot;]/ul[@class=&quot;fs-menu-items level dropdown-menu&quot;]/li[@class=&quot;dropdown-submenu open fs-scope subMenuTitle&quot;]/a[@class=&quot;media subMenuTitle&quot;]/span[@class=&quot;media-body fs-binding&quot;]</value>
-      <webElementGuid>99e1e0db-b350-4b70-ac8f-1935503e449f</webElementGuid>
+      <webElementGuid>32b91e07-7a66-44b2-b74b-a56698dbb88b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='System Data Admin'])[1]/following::span[3]</value>
-      <webElementGuid>71cadc79-6a78-4a9c-87b9-693fc6d0c458</webElementGuid>
+      <webElementGuid>94c08b97-765e-45fb-a16f-4a55b7492ef2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction'])[1]/following::span[5]</value>
-      <webElementGuid>c4e1b1e5-9e8b-4c9d-a2b5-68d732bc228f</webElementGuid>
+      <webElementGuid>f2ef4c27-69d7-4ab2-97c3-7130169443da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer on-Boarding'])[1]/preceding::span[3]</value>
-      <webElementGuid>c6a09086-1102-4917-8857-982e0677dd48</webElementGuid>
+      <webElementGuid>e569f2ad-d1a5-4080-9a31-ad4f52ed2226</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction'])[2]/preceding::span[6]</value>
-      <webElementGuid>1fac3a87-5ed7-4243-864a-2f500fe5d3e5</webElementGuid>
+      <webElementGuid>9d307657-9388-45ab-a85f-997f28cdf585</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Product on-Boarding']/parent::*</value>
-      <webElementGuid>341198e8-2972-441c-9f0e-68fbb39176b8</webElementGuid>
+      <webElementGuid>1b2d209b-61fb-4ec0-93d2-b3822573447c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a/span[2]</value>
-      <webElementGuid>63873a3b-a1e1-4ce5-8bcc-d5352271cdc0</webElementGuid>
+      <webElementGuid>d9e1f6f9-e389-4d96-96a8-3d926b6167a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Product on-Boarding' or . = 'Product on-Boarding')]</value>
-      <webElementGuid>d08235ec-de4c-4c78-8763-bcc3db266611</webElementGuid>
+      <webElementGuid>05b174f3-5525-494a-8a9f-5d038ea9db2b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

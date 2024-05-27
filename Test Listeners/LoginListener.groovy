@@ -13,7 +13,7 @@ import internal.GlobalVariable
 
 class LoginListener {
 
-	@BeforeTestCase
+	//@BeforeTestCase
 	def sampleBeforeTestCase(TestCaseContext testCaseContext) {
 
 		SetupPage.launchApplicationURL(GlobalVariable.URL_TAWID_PROTOL)
@@ -34,7 +34,7 @@ class LoginListener {
 	}
 
 
-	@AfterTestCase
+	//@AfterTestCase
 	def sampleAfterTestCase(TestCaseContext testCaseContext) {
 		//TeardownPage.terminateBrowser()
 	}
